@@ -1,5 +1,7 @@
 # Twelve-Constellations-Transfer
 
+行動裝置程式設計作業 - 十二星座轉換機
+
 ## 功能:
 * 將`生日日期`轉換為`星座`
 
